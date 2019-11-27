@@ -1,18 +1,18 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "FIXME"        # "UNSW Sydney")
-address: "FIXME"      # "Room 505A. Library")
-country: "FIXME"      # "au" 
-language: "FIXME"     # "en"
+venue: "UNSW Sydney"  
+address: "Room 505A. Library"      
+country: "au"      
+language: "en"    
 latitude: "45"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-1"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "FIXME"    # "Feb 17-18, 2020")
-humantime: "FIXME"    # "9:00 am - 4:30 pm"
-startdate: FIXME      # 2020-02-17
-enddate: FIXME        # 2020-02-18
-instructor: ["FIXME"] # ["Tanya Holm"]
-helper: ["FIXME"]     # ["Peter Smith"]
-email: ["fixme@example.org"]    # ["t.holm@unsw.edu.au"]
+humandate: "Feb 17-18, 2020"    
+humantime: "9:00 am - 4:30 pm"   
+startdate: 2020-02-17  
+enddate: 2020-02-18      
+instructor: ["Tanya Holm"] 
+helper: ["Peter Smith"]    
+email: ["t.holm@unsw.edu.au"]   
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
